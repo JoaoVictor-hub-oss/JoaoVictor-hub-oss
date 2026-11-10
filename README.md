@@ -1,4 +1,5 @@
-## Hi there 👋
+##  Olá! Meu nome é João Victor de Almeida Oliveira. Sou estudante de Desenvolvimento de Sistemas e estou em formação na área de tecnologia. Atualmente, estudo lógica de programação, PHP, JavaScript, HTML, CSS, MySQL e Git/GitHub. Meu objetivo é desenvolver projetos práticos, aprimorar minhas habilidades e conquistar uma oportunidade de estágio na área de tecnologia.
+
 
 <!--
 **JoaoVictor-hub-oss/JoaoVictor-hub-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
